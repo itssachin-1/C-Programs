@@ -6,3 +6,5 @@ data_types.c
 mytext.txt
 text.txt
 t.txt
+.DS_Store
+.gitignore
